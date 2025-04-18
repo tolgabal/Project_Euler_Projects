@@ -17,7 +17,7 @@ print("\nKısmi türevler:")
 print("∂f/∂x1 =", df_dx1)
 print("∂f/∂x2 =", df_dx2)
 
-# Gradient = 0 → denklemleri kur gghhhhhhhhhhhsil
+# Gradient = 0 → denklemleri kur
 eq1 = Eq(df_dx1, 0)
 eq2 = Eq(df_dx2, 0)
 
